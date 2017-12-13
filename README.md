@@ -1,1 +1,3 @@
-# bbyca-content.github.io - a simple, collaborative process for updating content faster.
+# bbyca-content.github.io
+
+A simple, collaborative process for updating content faster.
